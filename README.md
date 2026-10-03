@@ -267,8 +267,9 @@ def get_ai_recommendations(course, score):
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
 
-- Google Generative AI for powering the AI features
-- Flask framework for web application development
-- Bootstrap for responsive UI components 
+**Pranav Nannaware**  
+GitHub: [@NannawarePranav](https://github.com/NannawarePranav)
+
+**Pranav Mahalpure**  
+GitHub: [@PranavMahalpure](https://github.com/PranavMahalpure)
