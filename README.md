@@ -270,6 +270,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Pranav Nannaware**  
 GitHub: [@NannawarePranav](https://github.com/NannawarePranav)
-
-**Pranav Mahalpure**  
-GitHub: [@PranavMahalpure](https://github.com/PranavMahalpure)
